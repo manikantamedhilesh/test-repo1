@@ -10,7 +10,7 @@
   <build>
   <plugins>
     <plugin>
-      <artifactId>maven-complier-plugin</artifacId>
+      <artifactId>maven-complier-plugin</artifactId>
       <groupId>org.apache.maven.plugin</groupId>
       <version>3.0</version>
     </plugin>
